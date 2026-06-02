@@ -2,4 +2,4 @@
 
 команда для запуска
 
-docker compose up --build
+`docker compose up --build`
